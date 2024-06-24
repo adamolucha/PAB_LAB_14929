@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealershipTests\bin\Debug\net8.0\CoverletSourceRootsMapping_CarDealershipTests
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealershipTests\obj\Debug\net8.0\CarDealershipTests.csproj.AssemblyReference.cache
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealershipTests\obj\Debug\net8.0\CarDealershipTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealershipTests\obj\Debug\net8.0\CarDealershipTests.AssemblyInfoInputs.cache
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealershipTests\obj\Debug\net8.0\CarDealershipTests.AssemblyInfo.cs
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealershipTests\obj\Debug\net8.0\CarDealershipTests.csproj.CoreCompileInputs.cache

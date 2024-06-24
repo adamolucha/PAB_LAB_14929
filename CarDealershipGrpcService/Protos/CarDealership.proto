@@ -1,0 +1,19 @@
+﻿syntax = "proto3";
+option csharp_namespace = "CarDealershipGrpcService";
+service CarDealershipGrpcService{
+	rpc GetCars (Empty) returns (CarList);
+}
+
+message Empty{}
+
+message Car {
+	int32 id = 1;
+	string make = 2;
+	string model = 3;
+	int32 year = 4;
+
+}
+
+message CarList{
+	repeated Car cars = 1;
+}

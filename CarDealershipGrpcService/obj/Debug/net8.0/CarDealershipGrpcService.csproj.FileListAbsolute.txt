@@ -1,0 +1,2 @@
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealershipGrpcService\obj\Debug\net8.0\CarDealershipGrpcService.csproj.AssemblyReference.cache
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealershipGrpcService\obj\Debug\net8.0\CarDealershipGrpcService.GeneratedMSBuildEditorConfig.editorconfig
