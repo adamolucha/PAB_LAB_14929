@@ -51,3 +51,4 @@ C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealerRestApi\obj\Debug\net8.0\refi
 C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealerRestApi\obj\Debug\net8.0\CarDealershipRestApi.pdb
 C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealerRestApi\obj\Debug\net8.0\CarDealershipRestApi.genruntimeconfig.cache
 C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealerRestApi\obj\Debug\net8.0\ref\CarDealershipRestApi.dll
+C:\Users\adamo\source\repos\PAB_LAB_14929\CarDealerRestApi\obj\Debug\net8.0\CarDealershipRestApi.sourcelink.json

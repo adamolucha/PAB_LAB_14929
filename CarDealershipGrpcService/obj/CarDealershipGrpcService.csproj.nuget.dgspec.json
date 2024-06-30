@@ -151,7 +151,7 @@
           "dependencies": {
             "Google.Protobuf": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[3.27.2, )"
             },
             "Grpc.AspNetCore": {
               "target": "Package",
@@ -159,7 +159,7 @@
             },
             "Grpc.Net.Client": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[2.63.0, )"
             },
             "Grpc.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
